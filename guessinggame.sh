@@ -1,4 +1,3 @@
-k=$PWD
 a=$(ls | wc -l)
 while [[ true ]]
 do
